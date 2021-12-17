@@ -13,7 +13,7 @@ body{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
-   
+    
 }
 .container
 {
@@ -87,9 +87,9 @@ body{
 }
 .main-header-link:hover
 {
-color: #EA625C;
-border-color: #EA625C;
-opacity: 0.8;
+    color: #EA625C;
+    border-color: #EA625C;
+    opacity: 0.8;
 }
 .main-header-link:active
 {
@@ -101,13 +101,14 @@ opacity: 0.8;
 {
     border-bottom: 2px solid #dddd;
     height: 560px;
-
+    
 }
 .hero-content
 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-left: 70px;
 }
 .hero-info
 {
@@ -128,19 +129,19 @@ opacity: 0.8;
     margin: 0;
     font-weight: 700;
     font-size: 50px;
-line-height: 60px; 
-text-align: center;
-color: #000;
-padding-bottom: 30px;
-
-
+    line-height: 60px; 
+    text-align: center;
+    color: #000;
+    padding-bottom: 30px;
+    
+    
 }
 .hero-info-text
 {
     
     border-left: 3px solid #888888;
     margin: 0;
-padding-left: 40px;
+    padding-left: 40px;
     margin-bottom: 30px;
     line-height: 24px;
     color: #777777;
@@ -181,7 +182,7 @@ padding-left: 40px;
     padding: 0;
     list-style: none;
     display: flex;
-justify-content: center;
+    justify-content: center;
 }
 .feature-item
 {
@@ -193,19 +194,19 @@ justify-content: center;
 {
     margin: 0;
     font-weight: bold;
-font-size: 18px;
-line-height: 150%;
-color: #222;
-padding-bottom: 30px;
-
+    font-size: 18px;
+    line-height: 150%;
+    color: #222;
+    padding-bottom: 30px;
+    
 }
 .feature-text
 {
     font-size: 15px;
     line-height: 24px;
-margin: 0;
-color: #333;
-
+    margin: 0;
+    color: #333;
+    
 }
 .link-text
 {
@@ -213,7 +214,7 @@ color: #333;
     border-left:2px solid #EA625C;
     text-decoration: none;
     color: #EA625C;
-
+    
 }
 /* section-3 */
 .section-watch
@@ -239,16 +240,16 @@ color: #333;
     margin: 0;
     font-weight: 700;
     font-size: 50px;
-line-height: 60px; 
-color: #fff;
-padding-bottom: 30px;
+    line-height: 60px; 
+    color: #fff;
+    padding-bottom: 30px;
 }
 .footer-info-text
 {
     
     border-left: 3px solid #fff;
     margin: 0;
-padding-left: 40px;
+    padding-left: 40px;
     margin-bottom: 30px;
     line-height: 24px;
     color: #fff;
